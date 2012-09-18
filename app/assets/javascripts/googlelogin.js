@@ -1,4 +1,4 @@
-var OAUTHURL    =   'https://accounts.google.com/o/oauth2/auth?';
+    var OAUTHURL    =   'https://accounts.google.com/o/oauth2/auth?';
     var VALIDURL    =   'https://www.googleapis.com/oauth2/v1/tokeninfo?access_token=';
     var SCOPE       =   'https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile'
     var CLIENTID    =   '335447118665.apps.googleusercontent.com';
