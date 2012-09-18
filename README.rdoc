@@ -10,7 +10,7 @@ OAUTHURL    =   This is the google end point to get access token
 VALIDURL    =   This URL is to validate the access token
 SCOPE       =   This variables refers to various resources / services(APIs) we would like to access which can include Analytics API, Youtube API, Blogger API. Before we access them here, the corresponding API access should be turned on Google APIS Console’s ‘Services’ page. Since we just want basic user’s info our scope is https://www.googleapis.com/auth/userinfo.profile
 
-CLIENTID    =   'This is you application id wich you can create in https://code.google.com/apis/console/';
-REDIRECT    =   'This is your redirect uri where wich the google forward you after the validations works'
-TYPE        =   'token';
+CLIENTID    =   This is you application id wich you can create in https://code.google.com/apis/console/
+REDIRECT    =   This is your redirect uri where wich the google forward you after the validations works
+TYPE        =   token
 
